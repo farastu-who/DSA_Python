@@ -31,4 +31,8 @@ This is a somewhat comprehensive study of Data Structures & Algorithms in Python
 ### DSA with Python Resources
 
 1. [CSdojo DSA](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&ab_channel=CSDojo)
-2. 
+2. [freeCodeCamp's DSA in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=3492s&ab_channel=freeCodeCamp.org)
+3. [codebasics](https://www.youtube.com/watch?v=gDqQf4Ekr2A&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=3&ab_channel=codebasics)
+4. [ZerotoHero Python](https://www.youtube.com/watch?v=4uBbCUjJ_G8&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k&index=2&ab_channel=ZeroToMastery)
+5. [CodeBagel](https://www.youtube.com/watch?v=cQWr9DFE1ww&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&ab_channel=Codebagel)
+6. 
