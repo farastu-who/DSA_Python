@@ -1,12 +1,13 @@
 ## DSA_Python
 
 ### Description
-This is a somewhat comprehensive study of Data Structures & Algorithms in Python. This is also the first topic being covered in the list of all the relevant Computer Science study materials. I am doing this since I didn't study CS in my undergrad nor did I do any bootcamps. But I am currently doing my Master's in CS and it has been a real struggle since I feel that there's a lot of gaps in my knowledge base, and rightly so. 
+This is a somewhat comprehensive study of Data Structures and algorithms in Python. This is also the first topic being covered in the list of all the relevant Computer Science study materials. I am doing this since I didn't study CS in my undergrad, nor did I do any boot camps. But I am currently doing my Master's in CS, and it has been a real struggle since I feel that there's a lot of gaps in my knowledge base, and rightly so. 
 
-### CS Content list (I am putting it here for now just to have a refernce point and set a timeline for myself)
+### CS Content list (I am putting it here for now just to have a reference point and set a timeline for myself)
 
 1. DSA
 2. System Design
+[fetch-execute-cycle](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&t=418s&ab_channel=TomScott)
 [github](https://github.com/karanpratapsingh/system-design)
 3. Computer Systems
 4. Designing for data intensive systems
@@ -47,4 +48,4 @@ This is a somewhat comprehensive study of Data Structures & Algorithms in Python
 3. [codebasics](https://www.youtube.com/watch?v=gDqQf4Ekr2A&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=3&ab_channel=codebasics)
 4. [ZerotoHero Python](https://www.youtube.com/watch?v=4uBbCUjJ_G8&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k&index=2&ab_channel=ZeroToMastery)
 5. [CodeBagel](https://www.youtube.com/watch?v=cQWr9DFE1ww&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&ab_channel=Codebagel)
-6. 
+6. [BOOK: A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
