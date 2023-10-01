@@ -28,6 +28,16 @@ This is a somewhat comprehensive study of Data Structures & Algorithms in Python
 6. [StatQuest]
 7. [3Blue1Brown]
 
+### CS Quickies
+
+1. [SQL](https://sqlcrashcourse.com/lessons/)
+
+### Python Resources
+
+1. [Tech with Time Python AFAP]()
+2. [Tech with Time Intermediate Python]()
+3. [Tech with Time Advanced Python]()
+
 ### DSA with Python Resources
 
 1. [CSdojo DSA](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&ab_channel=CSDojo)
