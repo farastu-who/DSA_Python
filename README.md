@@ -27,6 +27,7 @@ This is a somewhat comprehensive study of Data Structures & Algorithms in Python
 5. [TechwithTim]
 6. [StatQuest]
 7. [3Blue1Brown]
+8. [Reducible](https://www.youtube.com/@Reducible/featured)
 
 ### CS Quickies
 
