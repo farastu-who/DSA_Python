@@ -7,6 +7,7 @@ This is a somewhat comprehensive study of Data Structures & Algorithms in Python
 
 1. DSA
 2. System Design
+[github](https://github.com/karanpratapsingh/system-design)
 3. Computer Systems
 4. Designing for data intensive systems
 5. Machine Learning & Recommender Systems & AI Ethics (since this is my research area)
