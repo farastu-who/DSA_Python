@@ -50,3 +50,4 @@ This is a somewhat comprehensive study of Data Structures and algorithms in Pyth
 5. [CodeBagel](https://www.youtube.com/watch?v=cQWr9DFE1ww&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5&ab_channel=Codebagel)
 6. [BOOK: A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
 7. [Neetcode DSA suggestions](https://www.youtube.com/watch?v=UrcwDOEBzZE&ab_channel=NeetCode) - this is good as a starting point
+8. [Neetcode - Python for coding Interviews](https://www.youtube.com/watch?v=0K_eZGS5NsU&ab_channel=NeetCode) - quick recap of Python
