@@ -1,7 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         prevMap = {} # prevMap is a Hash Map that gets appended each time we interate over the array - val:index
-
+# hashmap is used here for instant checking
         # now iterate over the array and look for the difference with the target in the Hash Map
         for i, n in enumerate(nums): # nums is the array and i is the index of the element/value n
             diff = target - n
